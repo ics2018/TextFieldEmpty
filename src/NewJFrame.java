@@ -81,6 +81,7 @@ public class NewJFrame extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
+        // it's Friday, I'm half asleep..
         if (jTextField1.getText().isEmpty()){
             jLabel1.setText("empty");
         }
